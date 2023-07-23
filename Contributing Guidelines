@@ -1,0 +1,47 @@
+ChildGuard Keylogger - Contributing Guidelines
+
+Thank you for your interest in contributing to the ChildGuard Keylogger project! We appreciate your support and encourage everyone to participate in making this project better. Here are some guidelines to help you get started with contributing:
+
+Code of Conduct:
+
+Be respectful, considerate, and inclusive in all interactions within the project community.
+Avoid offensive language, harassment, and discrimination.
+Respect differing viewpoints and be open to constructive feedback.
+Getting Started:
+
+Fork the repository to your own GitHub account.
+Clone the forked repository to your local machine.
+Branching and Commits:
+
+Create a new branch for each feature or bug fix you're working on.
+Commit your changes with descriptive messages explaining the purpose of each commit.
+Coding Style:
+
+Follow the PEP 8 style guide for Python code.
+Maintain consistent and readable code formatting.
+Testing:
+
+Write test cases for new features or bug fixes whenever possible.
+Ensure existing test cases pass before submitting a pull request.
+Pull Requests:
+
+Create a clear and detailed pull request that explains the changes you've made.
+Reference related issues in your pull request description when applicable.
+Documentation:
+
+Update the project's documentation when introducing new features or making significant changes.
+Provide clear and concise explanations for code functionality.
+Issue Reporting
+
+Before creating a new issue, search for existing ones to avoid duplicates.
+Use the issue template to provide necessary information and context.
+Review Process:
+
+Be patient during the review process and respond to feedback promptly.
+Be receptive to suggestions and be willing to make improvements.
+Licensing:
+
+By contributing to this project, you agree to license your code under the project's existing license.
+Contact:
+For any questions or clarifications, feel free to reach out through GitHub issues or other communication channels.
+We value contributions of all sizes, from bug fixes to new features. Your efforts help enhance the ChildGuard Keylogger project and make it more effective in promoting online safety for children. Together, we can build a safer digital environment for young users. Happy contributing!
